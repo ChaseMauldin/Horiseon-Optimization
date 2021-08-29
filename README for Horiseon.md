@@ -1,0 +1,1 @@
+The goal of this project was to optimize Horiseon's website to make it more accessible to people with disabilities.
